@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidRecyclerView</string>
+    <string name="app_title">My favorites</string>
+    <string name="image_base_name">img</string>
+    <string name="text_base_name">title</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_button">Menu</string>
+    <string name="menu_info">Info</string>
+</resources>
